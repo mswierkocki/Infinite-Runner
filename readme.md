@@ -1,5 +1,5 @@
 # Infinite Runner
-> Made with Unreal Engine
+> Made with Unreal Engine (2019y.)
 
 This running game was made for learning purpose, using UE4.
 
